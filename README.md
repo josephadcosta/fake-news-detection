@@ -47,10 +47,11 @@ Prediction Classes:
 https://fake-news-detection-vzusdrjh4rn3yevb6y6z9i.streamlit.app/
 
 ---
-Screenshots
+🎬 Screenshots
 <img width="1302" height="643" alt="Screenshot (432)" src="https://github.com/user-attachments/assets/f9d20635-31ed-426f-89c1-388fb0ad898a" />
-
-
+<img width="1292" height="640" alt="Screenshot (436)" src="https://github.com/user-attachments/assets/82e83e64-0eb6-4f31-b91d-1fc6dffe838c" />
+<img width="1289" height="640" alt="Screenshot (435)" src="https://github.com/user-attachments/assets/8543e06f-7c49-41d5-be34-dd781100f860" />
+<img width="1295" height="641" alt="Screenshot (434)" src="https://github.com/user-attachments/assets/d79682f0-112e-4133-b114-a3b14cd03e22" />
 
 
 
