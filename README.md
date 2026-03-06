@@ -47,6 +47,13 @@ Prediction Classes:
 https://fake-news-detection-vzusdrjh4rn3yevb6y6z9i.streamlit.app/
 
 ---
+Screenshots
+<img width="1302" height="643" alt="Screenshot (432)" src="https://github.com/user-attachments/assets/f9d20635-31ed-426f-89c1-388fb0ad898a" />
+
+
+
+
+
 
 🚀 Future Improvements
 - Deep learning NLP models  
